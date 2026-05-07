@@ -1,3 +1,4 @@
+and it is hard to understand how to operate app
 ---
 manufacturer: samsung
 
